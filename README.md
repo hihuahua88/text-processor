@@ -10,12 +10,15 @@ A simple Chinese text processing toolkit for learning NLP basics.
 - 文本相似度计算（Jaccard + 余弦相似度）
 
 ## 文件结构
+
+```
 text-processor/
 ├── README.md          # 项目说明
 ├── log.md             # 学习日志
 ├── data/              # 测试文本
 ├── src/               # 源代码
 └── requirements.txt   # 依赖包列表
+```
 
 ## 使用说明
 （待补充）
